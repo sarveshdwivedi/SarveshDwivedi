@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SarveshDwivedi
-- 👀 I’m interested in writing code and make human life easly by my developer application.
+- 👋 Hi, I’m @SarveshDwivedi, I am MEAN/MERN stack developer.
+- 👀 I love to write a code and my aim to make human life easy by using application which I developed.
 - 🌱 I’m currently learning reactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Gmail - sarvesh001@gmail.com or Skype- sarvesh.dwivedi
