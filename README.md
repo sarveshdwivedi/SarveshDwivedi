@@ -7,9 +7,11 @@
      - Machine Learning, Deep Learning, AI, data science
 - 💞️ I’m looking to collaborate and help on development.
 - 📫 Reach out to me on Gmail - sarvesh001@gmail.com 
-<br />
+
 ## 🤝 Connect with me:
 - 📫 Skype- sarvesh.dwivedi
+
+<br />
 <br />
 ## 👨‍💻 Languages and Tools
 
