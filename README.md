@@ -5,7 +5,7 @@
      - Node, Express, MongoDB, PHP, Drupal
 - 🌱 Also interested in:
      - Machine Learning, Deep Learning, AI, Data Science
-- 💞️ Ask me about Angular, JavaScript.
+- 💬 Ask me about Angular, JavaScript.
 - 📫 Reach out to me on Gmail - sarvesh001@gmail.com 
 
 ## 🤝 Connect with me:
