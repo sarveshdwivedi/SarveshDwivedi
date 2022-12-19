@@ -1,16 +1,16 @@
- 👋 Hi, I’m @SarveshDwivedi, I'm an Engineer by profession.
- 👀 I love to write a code and my aim to make human life easy by using application which I developed.
- 🌱 Technologies:
+- 👋 Hi, I’m @SarveshDwivedi, I'm an Engineer by profession.
+- 👀 I love to write a code and my aim to make human life easy by using application which I developed.
+- 🌱 Technologies:
      - Javascript, Angular, React, jQuery
      - Node, PHP, Drupal
- 🌱 Also interested in:
+- 🌱 Also interested in:
      - Machine Learning, Deep Learning, AI, data science
- 💞️ I’m looking to collaborate and help on development.
- 📫 Reach out to me on Gmail - sarvesh001@gmail.com 
+- 💞️ I’m looking to collaborate and help on development.
+- 📫 Reach out to me on Gmail - sarvesh001@gmail.com 
 
 ## 🤝 Connect with me:
- 📫 Skype- sarvesh.dwivedi
- 📫 Twitter- [@sarvesh_dwivedi][twitter]
+- 📫 Skype- sarvesh.dwivedi
+- 📫 Twitter- [@sarvesh_dwivedi][twitter]
 
 ## 👨‍💻 Languages and Tools
 
