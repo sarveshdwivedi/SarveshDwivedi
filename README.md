@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarveshDwivedi, I'm an Engineer by profession.
 - 👀 I love to write a code and my aim to make human life easy by using application which I developed.
-- 🌱 Technologies:
+- 🔭 Technologies:
      - Angular, Javascript, TypeScript, React
      - Node, Express, MongoDB, PHP, Drupal
 - 🌱 Also interested in:
