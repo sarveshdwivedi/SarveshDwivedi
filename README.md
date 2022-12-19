@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @SarveshDwivedi, I'm an Engineer by profession.
 - 👀 I love to write a code and my aim to make human life easy by using application which I developed.
 - 🌱 Technologies:
-     - Javascript, Angular, React, jQuery
-     - Node, PHP, Drupal
+     - Angular, Javascript, TypeScript, React
+     - Node, Express, MongoDB, PHP, Drupal
 - 🌱 Also interested in:
-     - Machine Learning, Deep Learning, AI, data science
-- 💞️ I’m looking to collaborate and help on development.
+     - Machine Learning, Deep Learning, AI, Data Science
+- 💞️ Ask me about Angular, JavaScript.
 - 📫 Reach out to me on Gmail - sarvesh001@gmail.com 
 
 ## 🤝 Connect with me:
