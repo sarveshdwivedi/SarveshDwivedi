@@ -10,7 +10,7 @@
 
 ## 🤝 Connect with me:
 - 📫 Skype- sarvesh.dwivedi
-- 📫 Twitter- [@sarvesh_dwivedi][twitter]
+- 📫 Twitter- @sarvesh_dwivedi
 
 ## 👨‍💻 Languages and Tools
 
